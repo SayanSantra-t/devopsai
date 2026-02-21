@@ -1,0 +1,4 @@
+Flask
+gunicorn
+prometheus-flask-exporter
+scikit-learn
