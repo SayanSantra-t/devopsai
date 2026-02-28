@@ -108,8 +108,8 @@ Metrics Collector
 ## 🔁 Setup & Execution
 
 ```bash
-git clone https://github.com/your-username/predictive-monitoring.git
-cd predictive-monitoring
+git clone https://github.com/SayanSantra-t/devopsai.git
+cd devopsai
 ```
 
 Run ML service:
